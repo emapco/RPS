@@ -2,17 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="184f2bf5-aaf5-4c88-9523-eeb92d61b0b6" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/emapco/rps/util/Display.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/emapco/rps/util/PlayAgain.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/emapco/rps/main/RPS.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/emapco/rps/util/Util.java" />
-      <change type="MOVED" beforePath="C:\Users\polo\IdeaProjects\RPS\src\com\emapco\rps\Main.java" afterPath="$PROJECT_DIR$/src/com/emapco/rps/main/Main.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="RPS.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Main.java" changelist="184f2bf5-aaf5-4c88-9523-eeb92d61b0b6" time="1376421380162" ignored="false" />
-    <file path="/Dummy.txt" changelist="184f2bf5-aaf5-4c88-9523-eeb92d61b0b6" time="1376416114471" ignored="false" />
+    <file path="/Dummy.txt" changelist="184f2bf5-aaf5-4c88-9523-eeb92d61b0b6" time="1376421936807" ignored="false" />
     <file path="$PROJECT_DIR$/../Website-Project/.idea/workspace.xml" changelist="184f2bf5-aaf5-4c88-9523-eeb92d61b0b6" time="1376415969785" ignored="false" />
     <file path="/RPS.java" changelist="184f2bf5-aaf5-4c88-9523-eeb92d61b0b6" time="1376418332438" ignored="false" />
     <file path="/Util.java" changelist="184f2bf5-aaf5-4c88-9523-eeb92d61b0b6" time="1376421223749" ignored="false" />
@@ -455,7 +450,11 @@
       <created>1376415649977</created>
       <updated>1376415649977</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Changed the design of the project&#10;&#10;">
+      <created>1376421947740</created>
+      <updated>1376421947740</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -531,7 +530,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="getting thigs ready&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changed the design of the project&#10;&#10;" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -546,6 +545,7 @@
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
     <MESSAGE value="getting thigs ready&#10;" />
+    <MESSAGE value="Changed the design of the project&#10;&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
