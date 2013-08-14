@@ -1,11 +1,15 @@
 package com.emapco.rps.util;
 
 import javax.swing.*;
+import java.util.Random;
 
 public class Util {
 
     private static String getCPU() {
-        int cpuInt = (int) (Math.random() * 3);
+        Random ranGen = new Random();
+
+        int cpuInt = ranGen.nextInt(3);
+
         if (cpuInt == 0)
             return "rock";
         else if (cpuInt == 1)
