@@ -3,13 +3,15 @@ package com.emapco.rps.main;
 import javax.swing.*;
 
 import com.emapco.rps.util.Strings;
-import com.emapco.rps.util.Util;
+import com.emapco.rps.util.util;
 
 public class RPS {
+
 
     public RPS() {
 
     }
+
 
     public void start() {
 
@@ -23,8 +25,9 @@ public class RPS {
 
     }
 
+
     public static void checkWinner(String player) {
-        String cpu = Util.getCPU();
+        String cpu = util.getCPUChoice();
 
         JOptionPane.showMessageDialog(null, "Rock, Paper, Scissors," +
                 "\nI picked a " + cpu + "!" +

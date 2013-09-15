@@ -27,6 +27,7 @@ public class Strings {
 
     }
 
+
     public static void displayPaper(String cpu) {
 
         if (cpu.equals("rock"))
@@ -37,6 +38,7 @@ public class Strings {
             JOptionPane.showMessageDialog(null, PAPER_LOSE_SBP);
 
     }
+
 
     public static void displayScissor(String cpu) {
 

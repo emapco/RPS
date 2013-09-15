@@ -8,9 +8,10 @@ public class Main {
 
         boolean playAgain;
 
+        RPS rps = new RPS();
+
         do {
 
-        RPS rps = new RPS();
         rps.start();
         playAgain = PlayAgain.getPlayAgain();
 

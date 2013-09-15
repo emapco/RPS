@@ -2,9 +2,9 @@ package com.emapco.rps.util;
 
 import java.util.Random;
 
-public class Util {
+public class util {
 
-    public static String getCPU() {
+    public static String getCPUChoice() {
 
         Random ranGen = new Random();
 
